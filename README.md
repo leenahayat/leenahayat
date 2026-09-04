@@ -102,10 +102,8 @@ A full stack web application built using Node.js, Express.js, MongoDB, and Pug.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=leenahayat&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leenahayat&layout=compact&theme=radical&hide_border=true"/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leenahayat&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leenahayat&theme=github_dark" />
 </div>
 
 ---
