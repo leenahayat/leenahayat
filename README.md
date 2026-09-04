@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=leenahayat\&style=for-the-badge\&color=ff69b4)
+
 
 </div>
 
