@@ -144,9 +144,9 @@ A full stack web application built using Node.js, Express.js, MongoDB, and Pug.
 
 ##  Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/leenahayat/">
+<a href="https://www.linkedin.com/in/leena-hayat/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
